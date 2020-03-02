@@ -1,1 +1,2 @@
 This is my first try!
+Creating a new branch is quick.
